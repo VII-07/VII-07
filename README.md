@@ -1,5 +1,5 @@
-# 💫 About Me:
-### Full Stack Developer 🚀 | React · Next.js · Node.js · Nest.js · Express.js |Crafting Scalable Solutions ⚙️<br>
+# About me
+### Full Stack Developer 🚀 | React · Next.js · Node.js · Nest.js · Express.js |Crafting Scalable Solutions ⚙️
 I build web applications that don’t just work — they feel right.<br>With 4+ years of experience crafting modern products for startups and growing teams,<br>I work across the stack — from elegant, responsive interfaces to reliable, scalable backend systems.<br><br>🧠 A Bit About Me<br>Passionate about clean architecture, developer experience, and real business impact<br>Always exploring better ways to connect design, logic, and performance<br>Big believer that great code isn’t just written — it’s engineered to last<br><br>🎮 Fun Fact<br>I once spent hours optimizing a feature that no one noticed —<br>but that’s how you know it was done right 😄<br><br>Thanks for stopping by!<br>Feel free to check out my pinned projects or reach out — I’m always open to building something meaningful together 🤝
 
 
@@ -11,15 +11,9 @@ I build web applications that don’t just work — they feel right.<br>With 4+ 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VII-07&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VII-07&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VII-07&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VII-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=VII-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
